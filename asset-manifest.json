@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fitpeo/static/css/main.ac78ecf4.css",
+    "main.css": "/fitpeo/static/css/main.a08fcff3.css",
     "main.js": "/fitpeo/static/js/main.5ac2bdba.js",
     "static/js/453.2c071eb9.chunk.js": "/fitpeo/static/js/453.2c071eb9.chunk.js",
     "static/media/fa-solid-900.ttf": "/fitpeo/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
@@ -15,12 +15,12 @@
     "static/media/fa-v4compatibility.ttf": "/fitpeo/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
     "static/media/fa-v4compatibility.woff2": "/fitpeo/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "index.html": "/fitpeo/index.html",
-    "main.ac78ecf4.css.map": "/fitpeo/static/css/main.ac78ecf4.css.map",
+    "main.a08fcff3.css.map": "/fitpeo/static/css/main.a08fcff3.css.map",
     "main.5ac2bdba.js.map": "/fitpeo/static/js/main.5ac2bdba.js.map",
     "453.2c071eb9.chunk.js.map": "/fitpeo/static/js/453.2c071eb9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac78ecf4.css",
+    "static/css/main.a08fcff3.css",
     "static/js/main.5ac2bdba.js"
   ]
 }
